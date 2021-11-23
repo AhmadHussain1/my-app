@@ -1,0 +1,27 @@
+{
+  "name": "my-work",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadHussain1/my-app.git"
+  },
+  "author": "ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadHussain1/my-app/issues"
+  },
+  "homepage": "https://github.com/AhmadHussain1/my-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "eslint-plugin-react": "^7.27.1"
+  }
+}
